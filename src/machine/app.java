@@ -57,7 +57,7 @@ public class app {
 
 
 
-           //// 이건 지워야해
+
     }
 
     private void createUIComponents() {
