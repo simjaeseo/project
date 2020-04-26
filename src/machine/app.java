@@ -66,3 +66,6 @@ public class app {
         imgLab3 = new JLabel(new ImageIcon("nacho.jpg"));
     }
 }
+
+
+옛다 수정받아라
